@@ -1,26 +1,29 @@
 .propic{
-    width: 50%;
+    width: 35%;
 
 }
 .content{
-    border: 1px dotted blue;
-    width: 50%;
+    
+    width: 65%;
+    
 }
 .card{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    height: auto;
     display: flex;
     border: 1px dotted blue;
     justify-content: space-around;
     padding: 20px;
     text-align: center;
     color: #2b2839;
-    background: #ddebf8;
-    border-bottom: 6px solid #d8cefe;
+    background: #7abaf7;
+    border-bottom: 8px solid #ca9bce;
 }
 
 body{
     margin: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #2b2839;
 }
